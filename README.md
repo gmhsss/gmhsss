@@ -7,7 +7,7 @@ I’m  Ella, a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 - 🖤: Exploring Technical Content.
 
-- 🖤: In my free time, I solve some bugs and read tech articles.
+- 🖤: In my free time, I read books.
 
 - 🖤:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
