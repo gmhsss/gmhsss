@@ -1,15 +1,22 @@
 ## Hello World 
-<div id="header" align="left">
+
+<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJoenV6Y2Q4OWFsMHZjeXVtNmU3emhpOGszOGczcHExa2ZydXBjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lpi3F7hFedErKjGvvC/giphy.gif" width="100"/>
 
 ### About Me 
 I’m  Ella, a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Comp Sci student at PUCPR from Brazil.
 
-- 🖤: Exploring Technical Content.
+🖤: Exploring Technical Content.
 
-- 🖤: In my free time, I read books.
+🖤: In my free time, I read books.
 
-- 🖤:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+🖤:How to reach me:
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="header" align="center">
 
 ---
 ### Languages and Tools 
@@ -29,17 +36,4 @@ I’m  Ella, a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gmhsss&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmhsss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div id="header" align="center">
   <img src="https://media.giphy.com/media/SVeiYWX54mhi9YyjWB/giphy.gif?cid=ecf05e47cxida16zc19uiy2esyjtx3vg25vk6ipf5284bk36&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
