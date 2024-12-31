@@ -21,6 +21,11 @@ I’m  Ella, a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 </div>
 <div id="header" align="center">
 
+
+  Go check my Portfolio:
+[ellasbentofolio.carrd.co
+](https://ellasbentofolio.carrd.co)
+
 ---
 ### Languages and Tools 
 <div>
