@@ -4,11 +4,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJoenV6Y2Q4OWFsMHZjeXVtNmU3emhpOGszOGczcHExa2ZydXBjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lpi3F7hFedErKjGvvC/giphy.gif" width="100"/>
 
 ### About Me 
-I’m  Ella, just a curious mind <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> cruising compSci ;)
+I’m  Ella, just a curious mind <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> for compSci ;)
 
-🖤: Exploring Technical Content.
-
-🖤: In my free time, I feel dizzy(as said by Niels Bohr) reading quantum mechanics.
+🖤: In my free time, I feel dizzy(as said by Niels Bohr) reading about quantum mechanics.
 
 🖤:How to reach me:
   <div id="badges">
