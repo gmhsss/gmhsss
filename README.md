@@ -19,5 +19,4 @@ I’m  Ella, just a curious mind <img src="https://media.giphy.com/media/WUlplcM
 </div>
 <div id="header" align="center">
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height=
   <img src="https://media.giphy.com/media/SVeiYWX54mhi9YyjWB/giphy.gif?cid=ecf05e47cxida16zc19uiy2esyjtx3vg25vk6ipf5284bk36&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
