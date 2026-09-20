@@ -6,7 +6,6 @@
 ### About Me 
 I’m  Ella, just a curious mind <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> for compSci ;)
 
-🖤: In my free time, I feel dizzy(as said by Niels Bohr) reading about quantum mechanics.
 
 🖤:How to reach me:
   <div id="badges">
