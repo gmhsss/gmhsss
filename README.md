@@ -7,7 +7,7 @@
 I’m  Ella, just a curious mind <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> for compSci ;)
 
 
-🖤:How to reach me:
+How to reach me:
   <div id="badges">
   <a href="https://www.linkedin.com/in/rafaella-somoza-0b2037324/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
